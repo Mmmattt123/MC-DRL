@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 opencv-python = "*"
 pillow = "*"
+memory_profiler = ""
 
 [requires]
 python_version = "3.7"
